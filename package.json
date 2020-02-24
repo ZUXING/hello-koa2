@@ -30,7 +30,9 @@
     },
     "//": "依赖，执行npm install时通过这个包直接安装需要的依赖包",
     "dependencies": {
-        "koa": "2.0.0"
+        "koa": "2.0.0",
+        "koa-router": "7.0.0",
+        "koa-bodyparser": "3.2.0"
     },
     "thanksTo": "Michael Liao",
     "moreQuestion": "https://www.cnblogs.com/paris-test/p/9760308.html"
