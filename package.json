@@ -9,7 +9,8 @@
     "main": "app.js",
     "scripts": {
         "//": "当执行npm run start",
-        "start": "app.js",
+        "koa2": "koa2only.js",
+        "koa2-form": "koa2form.js",
         "//": "同理，当执行npm run go",
         "go": "command",
         "//": "在命令行下，键入npm run，然后按tab键，就会显示所有可以使用的命令"
